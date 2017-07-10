@@ -1,0 +1,14 @@
+{
+  "name": "private-public-key",
+  "version": "1.0.0",
+  "description": "Private and Public Key Example",
+  "main": "generate-private-public-keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ursa": "^0.9.4"
+  }
+}
